@@ -117,7 +117,7 @@ A resistor is an electrical component that limits or regulates the flow of elect
 ![This is an image](https://i.servimg.com/u/f36/20/25/05/52/simuhe11.png)
 SimulIDE is a real-time electronic circuit simulator. It is a simple tool intended for advance learning, and it lets you enjoy the experience as well. SimulIDE is designed to be fast and easy to use, and it works wonders for simple electronics.
 ### Atmel Studio 7:
-![This is an image](https://static4.arrow.com/-/media/arrow/images/miscellaneous/1/1015-atmel-studio-7-video-main.jpg)
+![This is an image](https://furybyte.com/wp-content/uploads/2021/06/Atmel-Studio-7.0-Crack-Serial-Keygen-Full-Download.jpg)
 Atmel® Studio 7 is the integrated development platform (IDP) for developing and debugging SMART ARM®-based and AVR® microcontroller (MCU) applications. Studio 7 supports all AVR and SMART MCUs.
 
 
