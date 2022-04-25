@@ -92,6 +92,23 @@ Based on the information that the oscilloscope captures about the signal, modern
 | LLR10 | Capacitors  |
 | LLR11 | Fixed Voltage |
 
+## COMPONENTS AND THEIR EXPLANATION:
+### ATmega328:
+![This is an image](![This is an image](C:\Users\malla\Documents\New folder))
+ATmega328 is an Advanced Virtual RISC (AVR) microcontroller. It supports 8-bit data processing. ATmega-328 has 32KB internal flash memory. ATmega328 has 1KB Electrically Erasable Programmable Read-Only Memory (EEPROM).
+### LCD:
+A liquid-crystal display is a flat-panel display or other electronically modulated optical device that uses the light-modulating properties of liquid crystals combined with polarizers.
+### Oscope:
+oscope comes with some new features:
+![This is an image](https://3.bp.blogspot.com/-l8vJcq0qB0g/WoZ5FtqwVSI/AAAAAAAAA-s/LxKSMKLWb1w8YKZ-_S_6kwG74x_dklyeACLcBGAs/s400/oscope0.png)
+
+- Frequency detection.
+- Amplitude detection.
+- Minimum and Maximum values.
+- Auto-scale.
+- Scale and Position controls for Horizontal and Vertical.
+
+
 
 
 
