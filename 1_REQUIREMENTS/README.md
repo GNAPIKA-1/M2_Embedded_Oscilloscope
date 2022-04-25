@@ -8,12 +8,12 @@ The horizontal system's sample clock determines how often the ADC takes a sample
 ## Objective:
 Based on the information that the oscilloscope captures about the signal, modern digital oscilloscopes ofter two other important functions: 
 
-1.The automatic measurement of various parameters of the signal, like its frequency, peak-to-peak voltage, duty cycle and rise time, and 
-2.For signals that encode information, to decode that information and display it on the screen. For example, if the oscilloscope has captured the waveform that encodes serial UART information, we can set it so that this information is extracted from the waveform and displayed on the screen.
+  1.The automatic measurement of various parameters of the signal, like its frequency, peak-to-peak voltage, duty cycle and rise time, and 
+  2.For signals that encode information, to decode that information and display it on the screen. For example, if the oscilloscope has captured the waveform that encodes serial UART information, we can set it so that this information is extracted from the waveform and displayed on the screen.
 
-The basic objectives are as follows;
-->Plot signal waveform
-->Capture a waveform
-->Trigger control
-->Measurements
-->Decoding
+  The basic objectives are as follows;
+  ->Plot signal waveform
+  ->Capture a waveform
+  ->Trigger control
+  ->Measurements
+  ->Decoding
