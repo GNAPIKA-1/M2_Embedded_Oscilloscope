@@ -32,6 +32,7 @@ Based on the information that the oscilloscope captures about the signal, modern
 ### What:
 - The implementation of this project helps in measuring voltage by sample rate and varying frequency.
 - The measuring device that allows to see the changes in the **electrical voltage depending on time** is called an oscilloscope. It is commonly known that a voltmeter is used to make such a measurement under normal conditions.
+![This is an image](https://cdn.sparkfun.com/assets/3/c/9/4/1/52f3d691ce395fc6198b4567.png)
 ### Where:
 - Used for maintenance of electronic equipment and laboratory work. Special-purpose oscilloscopes may be used to analyze an automotive ignition system or to display the waveform of the heartbeat as an electrocardiogram, for instance.
 ### When:
