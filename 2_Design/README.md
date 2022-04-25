@@ -1,10 +1,10 @@
 # UML DIAGRAMS:
 ## STRUCTURAL DIAGRAM
-> - Structural diagram
-> - Class diagram
-> - State diagram
+> ### - Structural diagram
+> ### - Class diagram
+> ### - State diagram
 > ###  - Block diagram
 ## BEHAVIOURAL DIAGRAM
-### - Case diagram
-### - Sequence diagram
-### - Flow chart
+> ### - Case diagram
+> ### - Sequence diagram
+> ### - Flow chart
