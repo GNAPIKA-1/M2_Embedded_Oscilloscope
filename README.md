@@ -1,4 +1,6 @@
 # M2_Embedded_Oscilloscope
+
+![circu-on](https://user-images.githubusercontent.com/94955036/165147682-4a189836-122c-477b-997c-0b33ca6adf7e.png)
 Design and simulate Oscilloscope 
 ## Brief Description about Project:
 >An oscilloscope  is a type of electronic test instrument that **graphically displays varying electrical voltages as a two-dimensional plot** of one or more signals as a function of time. The main purposes are to display repetitive or single waveforms on the screen that would otherwise occur too briefly to be perceived by the human eye. The displayed waveform can then be analyzed for properties such as **amplitude, frequency, rise time, time interval, distortion,** and others. Originally, calculation of these values required manually measuring the waveform against the scales built into the screen of the instrument.Modern digital instruments may calculate and display these properties directly.
