@@ -94,7 +94,7 @@ Based on the information that the oscilloscope captures about the signal, modern
 
 ## COMPONENTS AND THEIR EXPLANATION:
 ### ATmega328:
-![This is an image](![This is an image](C:\Users\malla\Documents\New folder))
+![This is an image](https://www.electronicaembajadores.com/datos/fotos/articulos/grandes/lc/lca1/lca1atmega328.jpg)
 ATmega328 is an Advanced Virtual RISC (AVR) microcontroller. It supports 8-bit data processing. ATmega-328 has 32KB internal flash memory. ATmega328 has 1KB Electrically Erasable Programmable Read-Only Memory (EEPROM).
 ### LCD:
 A liquid-crystal display is a flat-panel display or other electronically modulated optical device that uses the light-modulating properties of liquid crystals combined with polarizers.
@@ -107,6 +107,20 @@ oscope comes with some new features:
 - Minimum and Maximum values.
 - Auto-scale.
 - Scale and Position controls for Horizontal and Vertical.
+### Op-Amp:
+![This is an image](https://www.allaboutcircuits.com/uploads/articles/op-amp-in-schematics.jpg)
+An operational amplifier (op amp) is an analog circuit block that takes a differential voltage input and produces a single-ended voltage output. Op amps usually have three terminals: two high-impedance inputs and a low-impedance output port.
+### Resistor, Capacitor, Fixed Voltage and Ground Terminal:
+![This is an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeHaWMpmcuM2DDrtkcSe755xRmSlDG7uzY6w&usqp=CAU)
+A resistor is an electrical component that limits or regulates the flow of electrical current in an electronic circuit.A capacitor is a device that stores electrical energy in an electric field.a fixed voltage type is a variable voltage type that integrates the external resistor.Grounding / Earthing Terminal Blocks are used for grounding and earthing wires to protect people and machinery from intrusion such as electrical or magnetic fields. They play a crucial part in control panel wiring.
+### SimulIDE:
+![This is an image](https://i.servimg.com/u/f36/20/25/05/52/simuhe11.png)
+SimulIDE is a real-time electronic circuit simulator. It is a simple tool intended for advance learning, and it lets you enjoy the experience as well. SimulIDE is designed to be fast and easy to use, and it works wonders for simple electronics.
+### Atmel Studio 7:
+![This is an image](https://static4.arrow.com/-/media/arrow/images/miscellaneous/1/1015-atmel-studio-7-video-main.jpg)
+Atmel® Studio 7 is the integrated development platform (IDP) for developing and debugging SMART ARM®-based and AVR® microcontroller (MCU) applications. Studio 7 supports all AVR and SMART MCUs.
+
+
 
 
 
