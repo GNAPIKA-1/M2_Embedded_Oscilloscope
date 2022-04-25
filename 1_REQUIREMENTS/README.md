@@ -66,14 +66,15 @@ Based on the information that the oscilloscope captures about the signal, modern
 - **Inadequate air flow** can cause excessive operating temperatures, which can lead to oscilloscope failure.
 
 ## HIGH LEVEL REQUIREMENTS:
-| First Header  | Second Header |
+| Requirements  | Description |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
-
-
+| HLR1  | Microcontroller  |
+| HLR2  | LCD Display |
+| HLR3  | Oscope |
+| HLR4  | SimulIDE  |
+| HLR5  | Atmel Studio 7  |
+| HLR6  | Microchip Studio  |
+| HLR4  | Other Softwares to Implement |
 
 
 
