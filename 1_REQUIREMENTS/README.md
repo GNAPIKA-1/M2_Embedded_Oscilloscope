@@ -65,6 +65,12 @@ Based on the information that the oscilloscope captures about the signal, modern
 ### Threats:
 - **Inadequate air flow** can cause excessive operating temperatures, which can lead to oscilloscope failure.
 
+## HIGH LEVEL REQUIREMENTS:
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
 
 
