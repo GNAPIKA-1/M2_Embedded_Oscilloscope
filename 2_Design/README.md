@@ -1,7 +1,7 @@
 # UML DIAGRAMS:
 ## STRUCTURAL DIAGRAM
 > ### - Structural diagram
- ![This is an image](https://instrumentationtools.com/wp-content/uploads/2018/04/What-is-Oscilloscope.jpg)
+ ![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lissajous_figures_on_oscilloscope_%2890_degrees_phase_shift%29.gif/300px-Lissajous_figures_on_oscilloscope_%2890_degrees_phase_shift%29.gif)
 > ### - Class diagram
 
 > ### - State diagram
