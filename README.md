@@ -8,3 +8,29 @@ Early high-speed visualisations of electrical voltages were made with an **elect
 
 ## Structure:
 ![This is an image](https://atmega32-avr.com/wp-content/uploads/2012/11/Oscilloscope.jpg)
+## HIGH LEVEL REQUIREMENTS:
+| Requirements  | Description |
+| ------------- | ------------- |
+| HLR1  | Microcontroller  |
+| HLR2  | LCD Display |
+| HLR3  | Oscope |
+| HLR4  | SimulIDE  |
+| HLR5  | Atmel Studio 7  |
+| HLR6  | Microchip Studio  |
+| HLR7  | Other Softwares to Implement |
+
+## LOW LEVEL REQUIREMENTS:
+
+| Requirements  | Description |
+| ------------- | ------------- |
+| LLR1  | ATmega328 |
+| LLR2  | ADC with PWM  |
+| LLR3 | LCD OR LEDS  |
+| LLR4 | AVR GCC compiler  |
+| LLR5 | Serial monitor  |
+| LLR6 | OpAmp  |
+| LLR7 | Sample Rate  |
+| LLR8 | Frequency Module |
+| LLR9 | Resistors  |
+| LLR10 | Capacitors  |
+| LLR11 | Fixed Voltage |
