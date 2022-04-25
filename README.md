@@ -36,7 +36,7 @@ Early high-speed visualisations of electrical voltages were made with an **elect
 | LLR9 | Resistors  |
 | LLR10 | Capacitors  |
 | LLR11 | Fixed Voltage |
-### - Structural diagram
+##  Structural Diagram
  ![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lissajous_figures_on_oscilloscope_%2890_degrees_phase_shift%29.gif/300px-Lissajous_figures_on_oscilloscope_%2890_degrees_phase_shift%29.gif)
- ### - Sequence diagram
+ ##  Sequence Diagram
  ![This is an image](https://electronicspost.com/wp-content/uploads/2016/08/16.png)
