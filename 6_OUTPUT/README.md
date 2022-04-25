@@ -1,4 +1,7 @@
-
-![Circuit_dia](https://user-images.githubusercontent.com/94955036/165147417-e73b36e5-6f70-49f3-b1f1-52c99a38969c.png)
-![Circuit_dia](https://user-images.githubusercontent.com/94955036/165147421-6aea6f1e-41da-4a74-bacf-1df8f60a1f89.png)
-![circu-off](https://user-images.githubusercontent.com/94955036/165147425-8acb725e-27db-4e67-b0d2-b426f427ec56.png)
+# Specific Outputs
+## Build-in Circuit
+![Circuit_dia](https://user-images.githubusercontent.com/94955036/165147667-ffb8dc86-c894-42a6-bcf5-0aeecb942676.png)
+## Ciruit when ON
+![circu-off](https://user-images.githubusercontent.com/94955036/165147677-aedac55a-32e6-483f-8bfb-8567407566fc.png)
+## Circuit when OFF
+![circu-on](https://user-images.githubusercontent.com/94955036/165147682-4a189836-122c-477b-997c-0b33ca6adf7e.png)
