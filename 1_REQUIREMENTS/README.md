@@ -74,7 +74,23 @@ Based on the information that the oscilloscope captures about the signal, modern
 | HLR4  | SimulIDE  |
 | HLR5  | Atmel Studio 7  |
 | HLR6  | Microchip Studio  |
-| HLR4  | Other Softwares to Implement |
+| HLR7  | Other Softwares to Implement |
+
+## LOW LEVEL REQUIREMENTS:
+
+| Requirements  | Description |
+| ------------- | ------------- |
+| LLR1  | ATmega328 |
+| LLR2  | ADC with PWM  |
+| LLR3 | LCD OR LEDS  |
+| LLR4 | AVR GCC compiler  |
+| LLR5 | Serial monitor  |
+| LLR6 | OpAmp  |
+| LLR7 | Sample Rate  |
+| LLR8 | Frequency Module |
+| LLR9 | Resistors  |
+| LLR10 | Capacitors  |
+| LLR11 | Fixed Voltage |
 
 
 
