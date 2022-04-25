@@ -15,3 +15,102 @@ Based on the information that the oscilloscope captures about the signal, modern
   - Trigger control
   - Measurements
   - Decoding
+
+## Benefits:
+- BuildS a system that can measure the **voltage** and give response automatically in **short time**.
+- A **control system** that is able to **monitor and manage** all parameters that are being controlled by specified operations efficiently.
+- Keep a **track** of their responses.
+- It is simple and **user friendly** application.
+- The system is **cost effective**.
+
+## 4W's and 1H:
+### Who:
+- **Engineers** use this oscilloscope to measure electrical phenomena and quickly test, verify, and debug their circuit designs.
+- Oscilloscopes are used in the sciences, medicine, engineering, automotive and the telecommunications **industry**.
+### What:
+- The implementation of this project helps in measuring voltage by sample rate and varying frequency.
+- The measuring device that allows to see the changes in the **electrical voltage depending on time** is called an oscilloscope. It is commonly known that a voltmeter is used to make such a measurement under normal conditions.
+### Where:
+- Used for maintenance of electronic equipment and laboratory work. Special-purpose oscilloscopes may be used to analyze an automotive ignition system or to display the waveform of the heartbeat as an electrocardiogram, for instance.
+### When:
+-  You can use them to debug the analog outputs of sensors.
+-  Catching simple errors by measuring the period of the flashes.
+-  Especially proficient at debugging PWM signals'
+-  To debug communications busses.
+-  When you want to get the exact formula for a trigonometric waveform through collecting data.
+### How:
+- Set the oscilloscope to display channel 1.
+- Set the vertical volts/division scale and position controls to mid–range positions.
+- Turn off the variable volts/division.
+- Turn off all magnification settings.
+- Set the channel 1 input coupling to DC.
+- Set the trigger mode to auto.
+- Set the trigger source to channel 1.
+- Turn trigger holdoff to minimum or off.
+- Set the horizontal time/division and position controls to mid-range positions.
+- Adjust channel 1 volts/division such that the signal occupies as much of the 10 vertical divisions as possible without clipping or signal distortion.
+
+## SWOT Analysis:
+### Strengths:
+- Easy adoptable system.
+- We can adjust voltage accordingly in a easier way.
+- Flexible Approach
+- It's a cost-effective and a robust system.
+### Weaknesses:
+- **Cost** many times more than other types of electronic measuring instruments, such as multimeters, they are also very sophisticated, and tend to be costly to repair if **damaged**. 
+### Opportunities:
+- Move way beyond the traditional FFT by providing much more elegant and advanced frequency domain analysis with some scopes even providing an integrated spectrum analyze for example the **Mixed Domain Oscilloscope**.
+- To make more accurate measurements, especially on low-voltage signals.
+- More **miniaturization** and improved performance in modular-based scopes.
+### Threats:
+- **Inadequate air flow** can cause excessive operating temperatures, which can lead to oscilloscope failure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
