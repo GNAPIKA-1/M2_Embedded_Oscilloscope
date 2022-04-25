@@ -1,5 +1,5 @@
-#TestCases
-| Build | Center-aligned | Right-aligned |
+# TestCases
+| Build | TestCases | Result |
 | :---         |     :---:      |          ---: |
 |  1  | TC_1     | Fail    |
 |  2  |  TC_2    | Pass     |
