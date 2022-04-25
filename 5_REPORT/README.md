@@ -137,5 +137,23 @@ A resistor is an electrical component that limits or regulates the flow of elect
 SimulIDE is a real-time electronic circuit simulator. It is a simple tool intended for advance learning, and it lets you enjoy the experience as well. SimulIDE is designed to be fast and easy to use, and it works wonders for simple electronics.
 ### Atmel Studio 7:
 Atmel® Studio 7 is the integrated development platform (IDP) for developing and debugging SMART ARM®-based and AVR® microcontroller (MCU) applications. Studio 7 supports all AVR and SMART MCUs.
+# UML DIAGRAMS:
+## STRUCTURAL DIAGRAM
+> ### - Structural diagram
+ ![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lissajous_figures_on_oscilloscope_%2890_degrees_phase_shift%29.gif/300px-Lissajous_figures_on_oscilloscope_%2890_degrees_phase_shift%29.gif)
+> ### - Class diagram
+ ![This is an image](https://img.brainkart.com/article/article-Storage-oscilloscope-P2U.jpg)
+
+> ### - State diagram
+ ![This is an image](https://electricalacademia.com/wp-content/uploads/2017/01/oscilloscope-block-diagram.gif)
+> ###  - Block diagram
+ ![This is an image](https://ars.els-cdn.com/content/image/3-s2.0-B9780128008843000095-f09-13-9780128008843.jpg)
+## BEHAVIOURAL DIAGRAM
+> ### - Case diagram
+ ![This is an image](https://bhartikathoiya.files.wordpress.com/2015/03/dso3.jpg)
+> ### - Sequence diagram
+ ![This is an image](https://electronicspost.com/wp-content/uploads/2016/08/16.png)
+### - Flow chart
+ ![This is an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIs5UYQoA6qDL8XY1lz8qrhSR14FbgeybN9BGy0xhRfxFjKqZRxKAyGrhHla1c_jqYagY&usqp=CAU)
 
 
