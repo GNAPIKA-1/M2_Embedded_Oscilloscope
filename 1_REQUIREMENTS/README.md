@@ -138,7 +138,7 @@ Atmel® Studio 7 is the integrated development platform (IDP) for developing and
 
 
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b0362e09210248ce88428bc5a60eb42c)]
+![Codacy Badge](https://app.codacy.com/project/badge/Grade/b0362e09210248ce88428bc5a60eb42c)
 
 
 
